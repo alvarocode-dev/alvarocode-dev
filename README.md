@@ -44,7 +44,7 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 - Python
 - Desenvolvimento de software
 - Estruturas de dados
-- Boas práticas de programação
+- Práticas de programação
 
 ---
 

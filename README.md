@@ -27,7 +27,7 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 
 # 🔥 Sequência de commits
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alvarocode-devtheme=tokyonight)
+![GitHub Streak](https://github-readme-steak-stats.herokuapp.com/?user=alvarocode-dev&theme=tokyonight)
 
 ---
 

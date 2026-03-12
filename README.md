@@ -34,8 +34,6 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 # 📌 Projetos em destaque
 
 🔹 Dashboard interativo com Python  
-🔹 Projetos de lógica de programação  
-🔹 Estudos de análise de dados  
 
 ---
 

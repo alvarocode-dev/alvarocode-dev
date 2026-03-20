@@ -33,7 +33,9 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 
 # 📌 Projetos em destaque
 
-🔹 Dashboard interativo com Python  
+🔹 Dashboard interativo com Python 
+🔹 Product API em C#
+   
 
 ---
 

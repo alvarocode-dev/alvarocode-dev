@@ -17,12 +17,6 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 
 ---
 
-# 🔥 Sequência de commits
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvarocode-dev&theme=tokyonight)
-
----
-
 # 📌 Projetos em destaque
 
 🔹 Dashboard interativo com Python 

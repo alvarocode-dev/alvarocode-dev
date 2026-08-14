@@ -35,16 +35,6 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 
 🔹 Dashboard interativo com Python 
 🔹 Product API em C#
-   
-
----
-
-# 🌱 Atualmente estudando
-
-- Python
-- Desenvolvimento de software
-- Estruturas de dados
-- Práticas de programação
 
 ---
 

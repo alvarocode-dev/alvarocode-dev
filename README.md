@@ -17,14 +17,6 @@ Atualmente utilizo este espaço para compartilhar projetos, praticar programaç�
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarocode-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocode-dev&layout=compact&theme=tokyonight)
-
----
-
 # 🔥 Sequência de commits
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvarocode-dev&theme=tokyonight)

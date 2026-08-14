@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Interessado em **Desenvolvimento de Software e Análise de Dados**  
-📊 Experiência com **Python, C#, lógica de programação e dashboards**
+📊 Experiência com **Python, SQL, C#, lógica de programação**
 
 Atualmente utilizo este espaço para compartilhar projetos, praticar programação e documentar minha evolução na área de tecnologia.
 
